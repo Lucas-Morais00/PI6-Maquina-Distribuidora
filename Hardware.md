@@ -1,7 +1,7 @@
 <h3>Carcaça</h3>
 Acrílico, MDF?
 
-<h3>Cobntrolador</h3>
+<h3>Controlador</h3>
 ESP32
 
 <h3>Eletrônicos</h3>
